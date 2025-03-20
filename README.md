@@ -1,16 +1,4 @@
-# first
+#플러터 앱 패키징 -> 안에 들어가서 의존성 최신화 한 후 url주소만 바꿔주고 빌드하면 앱 패키징 가능 ( 알림기능은 추가하지 않았음 -> 파이어베이스 연동 이슈 ) 
 
-A new Flutter project.
+https://github.com/user-attachments/assets/aa8d07c5-d3a7-47d6-8a6b-c9bd9ddd6ad6
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
